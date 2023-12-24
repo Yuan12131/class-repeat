@@ -1,0 +1,1 @@
+https://github.com/Yuan12131/class-ajax.git
